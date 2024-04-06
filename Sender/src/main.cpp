@@ -118,5 +118,5 @@ void loop()
 
     client.setCallback(callback);
 
-    delay(2000); // Adjust the delay as you wish
+    delay(5000); // Adjust the delay as you wish
 }
